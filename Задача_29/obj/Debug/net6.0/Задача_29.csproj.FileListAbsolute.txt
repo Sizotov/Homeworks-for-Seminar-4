@@ -1,0 +1,15 @@
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/Задача_29.csproj.AssemblyReference.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/Задача_29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/Задача_29.AssemblyInfoInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/Задача_29.AssemblyInfo.cs
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/Задача_29.csproj.CoreCompileInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/bin/Debug/net6.0/Задача_29
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/bin/Debug/net6.0/Задача_29.deps.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/bin/Debug/net6.0/Задача_29.runtimeconfig.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/bin/Debug/net6.0/Задача_29.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/bin/Debug/net6.0/Задача_29.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/Задача_29.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/refint/Задача_29.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/Задача_29.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/Задача_29.genruntimeconfig.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар4/Задача_29/obj/Debug/net6.0/ref/Задача_29.dll
